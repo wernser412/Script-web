@@ -1,0 +1,104 @@
+https://disqus.com/
+https://st.chatango.com/
+https://nakamasweb.com/
+###disqus_thread
+##.fb-comments
+||discordapp.com/widget$subdocument
+lectortmo.com##footer
+lectortmo.com##.badge-pill.badge-info.badge
+lectortmo.com##.my-2.mx-1.px-4.py-2
+lectortmo.com##.text-center.col-12 > .btn-primary.btn
+lectortmo.com##.text-center.col-xs-12
+lectortmo.com##.btn-social
+lectortmo.com##.fa-cloud-download-alt
+lectortmo.com##.flag-icon-es.flag-icon
+lectortmo.com##.thumbnail-footer > div.no-gutters.text-center.row:nth-of-type(2) > div.col:nth-of-type(1)
+lectortmo.com##.pt-2.sticky-top > .btn-block.btn-lg.btn-primary.btn
+lectortmo.com##.score
+lectortmo.com###fullWidthBtn
+lectortmo.com###separatedBtn
+lectortmo.com###fullScreenBtn
+lectortmo.com##.abandoned
+lectortmo.com###toggleLightDarkBtn
+lectortmo.com###navbarDropdownTemplate
+lectortmo.com##.alert-danger.alert
+lectortmo.com###pills-populars-girls-tab
+lectortmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:last-child
+lectortmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:nth-child(2)
+lectortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2:nth-child(8)
+lectortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-5.text-center:nth-child(7)
+lectortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2.text-center:nth-child(6)
+lectortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:first-child > div.col-12.col-lg-8:first-child > div.row:nth-child(2) > div.col-12 > a.float-right.btn.btn-primary:first-child
+lectortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(7)
+lectortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(6)
+lectortmo.com###pills-trending-girls-tab
+lectortmo.com###navbarsExampleDefault > ul.navbar-nav:last-child > li.nav-item.dropdown:nth-child(3)
+lectortmo.com###navbarsExampleDefault > ul.navbar-nav:last-child > li.nav-item:first-child
+lectortmo.com##div.px-1.d-inline:nth-of-type(3)
+lectortmo.com##div.px-2.d-inline:nth-of-type(3)
+lectortmo.com##div.px-2.d-inline:nth-of-type(4)
+lectortmo.com##.wallpaper
+lectortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child
+lectortmo.com###app > header:first-child > nav.navbar.navbar-fixed-top.navbar-light.bg-light.px-0 > div.row.d-flex.flex-row.justify-content-center.m-0.mx-auto.col-12 > div.d-inline.px-1:nth-child(2)
+lectortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-8:first-child > div.row:nth-child(2)
+lectortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-4:last-child
+lectortmo.com###btn-uncheck-all
+lectortmo.com##.follow
+lectortmo.com##.watch
+lectortmo.com##.wish
+lectortmo.com##.fa-hand-holding-heart
+tmohentai.com##.footer-section
+tmohentai.com##.btn-block.btn-warning.btn
+tmohentai.com##.rating-animate.rating-md.rating-container
+tmohentai.com##.rating-info
+tmohentai.com##.chat
+tmohentai.com##li.dropdown:nth-of-type(1) > .text-center.dropdown-toggle
+tmohentai.com##li.dropdown:nth-of-type(3) > .text-center.dropdown-toggle
+tmohentai.com##div.row:nth-of-type(3) > .col-md-offset-1.col-md-10 > .panel-primary.panel
+tmohentai.com##.col-md-offset-1.col-md-10.col-sm-12 > .panel-primary.panel
+tmohentai.com##.nav-justified.navbar-nav.nav > li:nth-of-type(2)
+tmohentai.com###app > div.container:last-child > div.row:last-child > div.col-xs-12:last-child > div.col-xs-12.col-sm-4:first-child > div.row.text-center:nth-child(2) > div.col-xs-12 > div.row:nth-child(4)
+tmohentai.com###app-navbar-collapse > ul.nav.navbar-nav:first-child > li:nth-child(5)
+tmohentai.com###app-navbar-collapse > ul.nav.navbar-nav:first-child > li:nth-child(2)
+tmohentai.com###app-navbar-collapse > ul.nav.navbar-nav:first-child > li:last-child
+tmohentai.com##.col-xs-8
+tmohentai.com###rate-content
+xvideos.com###nav
+xvideos.com###tabComments_bottom_page
+xvideos.com###main > div.video-metadata.video-tags-list.ordered-label-list.cropped:nth-child(3)
+xvideos.com###video-tabs
+xvideos.com###footer
+xvideos.com###hlsplayer > div.buttons-bar.right:nth-child(7) > img:nth-child(2)
+xvideos.com###hlsplayer > div.buttons-bar.right:nth-child(7) > img:nth-child(3)
+xvideos.com###hlsplayer > p.video-title:nth-child(2)
+xvideos.com##.action-menu
+xvideos.com###header-menu-toggle
+xvideos.com##.videoad-title, .videoad-title-invideo
+xvideos.com##.name
+diakov.net##div.container.cnt:nth-child(4) > div.row.my:nth-child(2) > div.col-md-12.col-lg-4.col-xl-2.my:last-child > div.mnu:nth-child(2)
+diakov.net##div.container.cnt:nth-child(4) > div.row.my:nth-child(2) > div.col-md-12.col-lg-4.col-xl-2.my:last-child > div.card.mb15:nth-child(4)
+diakov.net##div.container.cnt:nth-child(4) > div.row.my:nth-child(2) > div.col-md-12.col-lg-4.col-xl-2.my:last-child > div.card.mb15:last-child
+diakov.net##div.container.cnt:nth-child(4) > div.row.my:nth-child(2) > div.col-md-12.col-lg-2.my.hidden-xs.hidden-sm.hidden-md:first-child > div.card.mb15:last-child
+diakov.net##div.container.cnt:nth-child(4) > div.row.my:nth-child(2) > div.col-md-12.col-lg-2.my.hidden-xs.hidden-sm.hidden-md:first-child > div.card.mb15:nth-child(2)
+diakov.net###navbarTogglerDemo03 > ul.navbar-nav:last-child > li.nav-item:last-child
+diakov.net##.card-footer
+diakov.net##.rating
+diakov.net###dlemasscomments
+diakov.net##.dle-comments-navigation
+diakov.net###dle-comments-form
+diakov.net###dle-content > table:nth-child(4)
+diakov.net###dle-content > div.col-lg-12.my:nth-child(3)
+diakov.net###thx
+diakov.net##.subscr-lazydev, .ignore-select
+diakov.net##.FiveStarsTd
+lrepacks.ru###content > div.medium-12.large-12.columns:first-child
+lrepacks.ru###sidebar > div.widget.widget_upcoming_events:nth-child(3)
+lrepacks.ru###categories-2
+lrepacks.ru###sidebar > a.glo:first-child
+lrepacks.ru###dle-content > div.comments.ignore-select:last-child
+lrepacks.ru###dle-content > div.donat-cont:nth-child(2)
+lrepacks.ru###dle-content > article:first-child > div.entry-content:nth-child(2) > div.clr.berrors:last-child
+lrepacks.ru###sidebar > div.widget.partner-block:nth-child(5)
+lrepacks.ru###pageuserscroll
+intercambiosvirtuales.org###seguidores
+rawdevart.com##.my-3

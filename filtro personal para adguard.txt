@@ -4,6 +4,7 @@ https://nakamasweb.com/
 ###disqus_thread
 ##.fb-comments
 ||discordapp.com/widget$subdocument
+###madara-comments
 lectortmo.com##footer
 lectortmo.com##.badge-pill.badge-info.badge
 lectortmo.com##.my-2.mx-1.px-4.py-2

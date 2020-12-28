@@ -2,7 +2,7 @@ https://disqus.com/
 https://st.chatango.com/
 https://nakamasweb.com/
 ###disqus_thread
-##.fb-comments
+||facebook.com/plugins/comments.php$important
 ||discordapp.com/widget$subdocument
 ###madara-comments
 lectortmo.com##footer

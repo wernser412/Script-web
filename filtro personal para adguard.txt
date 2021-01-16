@@ -50,6 +50,7 @@ lectortmo.com##.fa-hand-holding-heart
 lectortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2)
 lectortmo.com###app > section.container-fluid.text-center.bg-manga:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
 lectortmo.com###app > section.container-fluid.text-center.bg-manhua:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
+lectortmo.com###app > section.container-fluid.text-center.bg-manhwa:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
 tmohentai.com##.footer-section
 tmohentai.com##.btn-block.btn-warning.btn
 tmohentai.com##.rating-animate.rating-md.rating-container

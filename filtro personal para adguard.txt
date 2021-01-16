@@ -48,6 +48,7 @@ lectortmo.com##.follow
 lectortmo.com##.watch
 lectortmo.com##.wish
 lectortmo.com##.fa-hand-holding-heart
+lectortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2)
 tmohentai.com##.footer-section
 tmohentai.com##.btn-block.btn-warning.btn
 tmohentai.com##.rating-animate.rating-md.rating-container
@@ -103,3 +104,13 @@ lrepacks.ru###sidebar > div.widget.partner-block:nth-child(5)
 lrepacks.ru###pageuserscroll
 intercambiosvirtuales.org###seguidores
 rawdevart.com##.my-3
+es.symbolab.com###canvasZoom
+es.symbolab.com###Plot_dynaimc > div.solution_box.solution_outside_box:last-child > div:last-child > a.print-hide.viewLargerPlot
+es.symbolab.com###show-hide-plot-div > a.show-hide-button.show-hide-plot.print-hide
+brainly.lat##.sg-content-box--spaced-bottom-small.sg-content-box--spaced-top-small.sg-content-box
+brainly.lat##div.sg-content-box--spaced-bottom-large.sg-content-box:nth-of-type(3)
+brainly.lat##.md\:empty\:sg-space-y-l.empty\:sg-space-y-m.js-react-below-answers
+brainly.lat##div.sg-content-box--spaced-bottom-large.sg-content-box > .sg-box--border.sg-box--border-color-gray-secondary-lightest.sg-box--padding-m.sg-box
+brainly.lat##.sg-flex--margin-bottom-m.sg-flex > .sg-box--border.sg-box--border-color-gray-secondary-lightest.sg-box--padding-m.sg-box
+brainly.lat###main-sg-layout-container > header.js-main-header.sg-header.sg-header--fixed.sg-header--with-divider:nth-child(3) > div.sg-header__container.sg-header__container--light:last-child > div.sg-header__content > div.sg-header__right:last-child > div.sg-actions-list > div.sg-header__user-panel.sg-hide-for-medium-down:last-child > nav.sg-flex.sg-flex--align-items-center > div.sg-flex:nth-child(2)
+brainly.lat###main-sg-layout-container > header.js-main-header.sg-header.sg-header--fixed.sg-header--with-divider:nth-child(2) > div.sg-header__container.sg-header__container--light:last-child > div.sg-header__content > div.sg-header__right:last-child > div.sg-actions-list > div.sg-header__user-panel.sg-hide-for-medium-down:last-child > nav.sg-flex.sg-flex--align-items-center > div.sg-flex:nth-child(2)

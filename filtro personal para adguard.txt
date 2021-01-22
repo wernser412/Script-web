@@ -106,11 +106,3 @@ lrepacks.ru###sidebar > div.widget.partner-block:nth-child(5)
 lrepacks.ru###pageuserscroll
 intercambiosvirtuales.org###seguidores
 rawdevart.com##.my-3
-es.symbolab.com###canvasZoom
-es.symbolab.com###Plot_dynaimc > div.solution_box.solution_outside_box:last-child > div:last-child > a.print-hide.viewLargerPlot
-es.symbolab.com###show-hide-plot-div > a.show-hide-button.show-hide-plot.print-hide
-brainly.lat##.sg-layout__aside-content
-brainly.lat##.sg-layout__secondary-content
-brainly.lat##.brn-qpage-next-newest-questions
-brainly.lat##.brn-footer.sg-footer
-brainly.lat##.sg-flex--margin-left-m.sg-flex--margin-bottom-l.sg-flex--margin-right-m.sg-flex--margin-top-m.sg-flex

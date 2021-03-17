@@ -4,6 +4,9 @@ https://nakamasweb.com/
 ||facebook.com/plugins/comments.php$important
 ||discordapp.com/widget$subdocument
 ###madara-comments
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
+||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 lectortmo.com##footer
 lectortmo.com##.badge-pill.badge-info.badge
 lectortmo.com##.my-2.mx-1.px-4.py-2
